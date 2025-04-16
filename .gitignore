@@ -1,3 +1,4 @@
 PY_INL
 .env
+.venv
 .DS_Store
