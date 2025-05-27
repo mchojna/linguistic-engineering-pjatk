@@ -5,9 +5,15 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
+    "ipykernel>=6.29.5",
     "jupyter>=1.1.1",
     "matplotlib>=3.9.4",
     "networkx>=3.2.1",
     "nltk>=3.9.1",
+    "pandas>=2.2.3",
     "scikit-learn>=1.6.1",
+    "spacy>=3.8.0",
+    "tensorflow>=2.19.0",
+    "tf-keras>=2.19.0",
+    "transformers>=4.52.3",
 ]
